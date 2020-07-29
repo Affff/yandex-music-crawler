@@ -130,4 +130,6 @@ dmypy.json
 
 # IntelliJ IDEA
 .idea
+
+# JSON files
 *.json
